@@ -1,13 +1,13 @@
 {
-  "name": "expensify-frontend",
+  "name": "y",
   "private": true,
   "version": "1.0.0",
   "type": "module",
- "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview"
-},
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "axios": "^1.13.6",
     "formik": "^2.4.9",
@@ -21,5 +21,17 @@
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
     "vite": "^5.4.21"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadinenivenkatavasu-max/ExpensifyFrontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadinenivenkatavasu-max/ExpensifyFrontend/issues"
+  },
+  "homepage": "https://github.com/sadinenivenkatavasu-max/ExpensifyFrontend#readme"
 }
